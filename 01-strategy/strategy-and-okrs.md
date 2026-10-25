@@ -1,9 +1,6 @@
 # Product Strategy One-Pager & OKRs: [Fable / Meridian / your initiative]
 
-> Module 1 · Craft an Advanced Product Strategy, ★ Deliverable 1
->
-> Your one spine: the **Playing to Win** cascade, one deliberate **hard no**, and an **OKR cascade** that flows directly from it.
-> Draft the cascade + hard no in Sprint 1, then add the OKRs in Sprint 2. The goal: specific enough that a skeptical board member couldn't poke a hole in it.
+> Module 1 · Write a Strategy That Can Survive a Test, ★ Deliverable 1
 
 ## 0. Chosen scenario
 
@@ -15,39 +12,30 @@ _One line on why you picked it._
 
 | Question | Your choice |
 |---|---|
-| **Winning aspiration**: winning in the customer's terms, not internal metrics | _____ |
-| **Where to play**: segment, geography, channel, use case (the no's matter too) | _____ |
-| **How to win**: your differentiator competitors can't easily replicate | _____ |
-| **Capabilities required**: what you must be world-class at (build / buy / partner) | _____ |
-| **Management systems**: the metrics and rituals that reinforce your choices | _____ |
+| **Winning aspiration** | Wholesale customers can offer a reliable, safe, and competitively priced instant water heater that meets end-user needs and delivers an attractive resale margin. |
+| **Where to play** | Saudi Arabian wholesale customers targeting price-conscious consumers seeking reliable, safe, compact instant water heaters for residential use. |
+| **How to win** | Leverage Saudi Ceramics’ trusted brand, reliable quality, and safety standards to offer a competitively priced instant water heater with flexible installation options and attractive wholesale margins. |
+| **Capabilities required** | Wholesale market validation, cost-efficient product development, manufacturing quality and safety, competitive pricing, and strong partnerships with factories and wholesale distributors. |
+| **Management systems** | rack wholesale demand, confirmed orders, unit cost, gross margin, product quality, and customer satisfaction through monthly KPI reviews and quarterly strategy reviews to ensure targets are met and decisions remain aligned with the strategy. |
 
 ## 2. Your one hard no
 
-_One valuable thing you are explicitly choosing **not** to do, and why it protects the focus of everything above. This is a deliberate trade-off, not a backlog of deprioritized items._
-
-> We will not … because …
+> **Hard no:** We will not launch at scale based on verbal interest alone, because validating confirmed wholesale demand and profitability protects our investment and keeps the strategy focused on sustainable growth.
 
 ## 3. OKR cascade
 
-_One Objective and three Key Results that flow directly from the cascade. Each KR must be a measurable **outcome**, not an output/milestone._
-
-> **Objective:** _____
+> **Objective:** Validate strong wholesale market demand and achieve sustainable profitability for the economic instant water heater in Saudi Arabia.
 >
-> - **KR1:** [metric] from [baseline] to [target] by [date]
-> - **KR2:** [metric] from [baseline] to [target] by [date]
-> - **KR3:** [metric] from [baseline] to [target] by [date]
+> - **KR1:** Secure confirmed wholesale orders for at least 10,000 units within 90 days.
+> - **KR2:** Achieve a wholesale selling price of SAR 200 per unit or higher, excluding VAT.
+> - **KR3:** Achieve a gross profit margin of at least 40% per unit while meeting all quality and safety requirements.
 
 ## 4. AI pressure-test notes
 
-_Run the devil's-advocate prompt (in the Sprint 2 guide). Capture the verdict._
-
-| Prompt question | What the AI surfaced | Change or defend? |
-|---|---|---|
-| Biggest assumption that could be wrong | _____ | _____ |
-| The board question I can't yet answer | _____ | _____ |
-| KRs that are outputs in disguise | _____ | _____ |
-| The "no" I should reconsider | _____ | _____ |
-| Strategy or wish list? Why? | _____ | · |
+| Prompt question | Your answer |
+|---|---|
+| Which challenge from the AI is most valid, and why? | The biggest risk is assuming wholesale demand based on verbal interest without confirmed orders. Interest does not guarantee actual sales. |
+| What would you change, and what would you defend? | I would validate demand through confirmed orders and test the target price before scaling production. I would defend our focus on wholesale customers and our commitment to quality, safety, and profitability. |
 
 ## 5. Self-diagnostic (6 questions)
 
