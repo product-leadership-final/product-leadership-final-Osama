@@ -1,29 +1,30 @@
 # Financial Model: [Fable / Meridian / your initiative]
 
-> Module 5 · Master Product Financials & Strategic Bets, ★ Deliverable 5
->
-> The business case for funding your bet, and the explicit kill criteria that would tell you to stop.
+> Module 5 · Build the Business Case and the Kill Line, ★ Deliverable 5
 
 ## 1. Business case
 
-_Why this initiative is worth funding over the alternatives. Include the key unit economics assumptions, CAC, LTV, payback period, where relevant._
-
 | Assumption | Value | Source / rationale |
 |---|---|---|
-| CAC | _____ | _____ |
-| LTV | _____ | _____ |
-| Payback period | _____ | _____ |
-| Investment required | _____ | _____ |
-| Expected return | _____ | _____ |
+| Strategic bet | Validate demand for an economical instant water heater in the Saudi wholesale market before committing to large-scale production. Target customer: Saudi wholesale distributors and retailers serving price-conscious customers. Product proposition: A compact, versatile instant water heater from a trusted Saudi brand. Mechanism to financial results: Validate demand at a target wholesale price of SAR 200 per unit, excluding VAT, while confirming an estimated total unit cost of SAR 120. This implies a preliminary gross profit of SAR 80 per unit and a 40% gross margin, before any costs not included in the estimate. Funding request: Approve a 90-day validation phase, not full-scale production. | _____ |
+| What the case rests on | 1. Wholesale demand and price acceptance — highest risk. Wholesalers will place actual orders at SAR 200 per unit, excluding VAT, rather than merely express interest. 2. Unit economics. The verified total cost can remain at or below SAR 120 per unit while meeting quality and regulatory requirements. 3. Manufacturing readiness. The product can be produced safely, consistently, and at the required cost. 4. Market potential. The preliminary estimate of 130,000 units annually represents a sufficiently accessible opportunity, not simply theoretical market demand. The conclusion is most sensitive to actual order demand at the target price and the verified unit cost. | _____ |
+| Expected return | Per unit: Target wholesale price: SAR 200, excluding VAT. Estimated total unit cost: SAR 120. Preliminary gross profit: SAR 80. Preliminary gross margin: 40%. At scale — illustrative target of 10,000 units: Revenue: SAR 2,000,000. Estimated unit costs: SAR 1,200,000. Preliminary gross profit: SAR 800,000. These figures exclude any additional costs not included in the unit-cost estimate. They are a scenario, not a forecast or a guaranteed return. Timing: Validate demand, costs, and manufacturing readiness within 90 days. Scale only after the evidence supports the business case. | _____ |
 
-> **The case in one paragraph:** _____
+> **The case in one paragraph:** Economic Instant Water Heater — Final Business Case 1. Strategic Bet Approve a 90-day validation phase for an economical instant water heater targeting the Saudi wholesale market before committing to large-scale production. Our target wholesale price is SAR 200 per unit, excluding VAT, with an estimated total unit cost of SAR 120. This implies preliminary gross profit of SAR 80 per unit and a 40% gross margin, subject to cost verification. 2. CFO Stress Test Check 1 — Load-bearing assumption The most critical assumption is that wholesalers will commit to purchasing 10,000 units at SAR 200 per unit, excluding VAT, within 90 days. If demand is 30% below target, commitments would reach only 7,000 units, and the expected gross profit at the estimated unit economics would fall from SAR 800,000 to SAR 560,000. This is an illustrative scenario, not a sales forecast. Check 2 — Retention sensitivity Customer churn and LTV are not directly applicable to this product business case because it is based on unit sales rather than recurring subscriptions. The more relevant sensitivity is unit cost. If cost increases by 20%, from SAR 120 to SAR 144, gross profit falls from SAR 80 to SAR 56 per unit, and gross margin declines from 40% to 28%. Check 3 — Payback reality check A reliable payback period cannot yet be calculated because the validation budget, launch costs, and other investment costs have not been established. Before approving full-scale production, Finance should verify the complete cost model and assess the investment using contribution margin and total cash investment, not gross margin alone. Check 4 — Kill criterion The revised kill criterion specifies a metric, numerical threshold, timeline, and financial consequence: By the end of day 90, proceed to a request for scale-up approval only if we have documented wholesaler purchase commitments for at least 10,000 units at SAR 200 per unit, excluding VAT, and verified total unit cost is no higher than SAR 120. Manufacturing and regulatory readiness must also be confirmed. If any condition is unmet, withhold large-scale production funding. Reassess pricing, costs, or the product proposition before seeking a new approval. 3. Funding Verdict I would approve the 90-day validation phase, but not full-scale production, because demand and unit economics remain unverified. The one thing to fix before presenting: Establish a clear budget cap for the 90-day validation phase and confirm which costs are included in the SAR 120 unit-cost estimate. This will let Finance assess the downside exposure and calculate a credible investment payback.
 
 ## 2. Kill criteria
 
-_The specific signals that would tell you this bet is no longer worth pursuing. Be explicit about the metric, the threshold, and the timeline._
-
-> If **[metric]** does not reach **[threshold]** by **[date]**, we will **[decision]**.
+> **Kill criterion:** At the end of the 90-day validation phase, do not approve large-scale production unless: Actual wholesaler orders or documented purchase commitments validate demand at SAR 200 per unit, excluding VAT. Verified total unit cost is no higher than SAR 120, supporting the preliminary 40% gross margin. Manufacturing and regulatory readiness are confirmed. Financial consequence: If these conditions are not met, withhold the large-scale production investment. Rework the pricing, cost structure, or product proposition and require a new approval before proceeding.
 
 ## Link to full artifact
 
 _[link to this deliverable in your repo]_
+
+## Lab notes
+
+**Make your evaluation and funding decision**
+
+- **What assumption is doing the most work? If this number is 20-30% off, what changes?:** The increase in Standard-to-Enterprise upsell from 6% to 8%. If the uplift reaches only 6% across 400 accounts, that means 24 upsells rather than 32, reducing projected incremental ARR from $896,000 to $672,000, assuming all 400 accounts are eligible and each upsell is incremental.
+- **What is the structural problem in this case? Look past the headline numbers for something that does not hold up on closer inspection.:** The case claims a 2.4-month payback on a $180,000 feature build, but does not show how that payback is calculated. The $896,000 figure is incremental ARR, not necessarily cash received or profit. It also does not establish that the 20% reduction in time-to-quote causes the upsell improvement.
+- **Is the kill criterion complete and actionable? Does it name the consequence, or hand the decision back to the room?:** Partially. The 7% threshold by the end of Q3 is measurable, but “the feature is paused” is not enough unless the team defines how the threshold will be measured and what happens to ongoing costs and engineering capacity.
+- **Your verdict: FUND / FUND WITH ONE CONDITION / DO NOT FUND. If a condition, name it; otherwise explain in one sentence.:** FUND WITH ONE CONDITION. Approve a staged investment, contingent on validating the effect on upsell and demonstrating a credible payback calculation using incremental gross profit, not ARR alone.
